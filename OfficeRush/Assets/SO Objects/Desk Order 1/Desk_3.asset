@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd2c2073eef40441bf03b0cf883cb7d, type: 3}
+  m_Name: Desk_3
+  m_EditorClassIdentifier: 
+  prefabOfDesk: {fileID: 8869854556142777292, guid: 929f8ce5ecfe3bb4e99ba3275ac3913f, type: 3}
+  iconImage: {fileID: 21300000, guid: 5dff9ddb99a9f4043ab5ffa4b31abe41, type: 3}
+  class_of_desk: Senior
+  buyPrice: 250
+  consumePaper: 0.25
+  produceMoney: 0.5
+  buyPosition: {x: 18.79, y: 0.01, z: -1.875}
